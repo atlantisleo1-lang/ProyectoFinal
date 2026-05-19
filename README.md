@@ -1,5 +1,5 @@
 
-# ProyectoFinal - Análisis Exploratorio de Datos (EDA): Campaña de Telemarketing Bancario
+# Primer proyecto de portafolio profesional
 
 ¡Bienvenido a este proyecto de portafolio profesional! Esta es una aplicación web interactiva construida con **Streamlit** diseñada para analizar y procesar el comportamiento de miles de clientes frente a las campañas de captación de depósitos a plazo fijo de una institución financiera.
 
