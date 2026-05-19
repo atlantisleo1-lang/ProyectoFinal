@@ -31,26 +31,15 @@ El proyecto implementa principios de **Programación Orientada a Objetos (POO)**
 ---
 
 ## 📸 Capturas de la Aplicación
-
-A continuación se muestran algunas secciones del dashboard interactivo en funcionamiento:
-
-| Módulo de Presentación (Home) | Análisis de Distribuciones Interactivas |
-|---|---|
-| ![Home Screen](https://via.placeholder.com/400x250?text=Captura+Home+Streamlit) | ![Histograma Dinámico](https://via.placeholder.com/400x250?text=Captura+Histograma+Slider) |
-
-| Matriz de Correlación (Heatmap) | Conclusiones y Toma de Decisiones |
-|---|---|
-| ![Mapa de Calor](https://via.placeholder.com/400x250?text=Captura+Heatmap+Seaborn) | ![Conclusiones](https://via.placeholder.com/400x250?text=Captura+Sección+Conclusiones) |
-
-> *Nota: Reemplaza los enlaces de marcador de posición de arriba con las URLs de tus capturas reales una vez alojadas en GitHub.*
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-18 213114" src="https://github.com/user-attachments/assets/7a93ebf7-6351-45d6-a6f5-60e92cdd3372" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-18 213128" src="https://github.com/user-attachments/assets/785a599e-bef4-481f-b3d9-82bd14b06baa" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-05-18 213139" src="https://github.com/user-attachments/assets/9d4715a9-df84-4872-bd29-eb6ae93c330b" />
 
 ---
 
 ## 💻 Instrucciones de Ejecución
 
-Sigue estos pasos para clonar el repositorio y ejecutar la aplicación de forma local en tu computadora:
-
-### 1. Clonar el repositorio
-```bash
-git clone [https://github.com/tu-usuario/ProyectoFinal.git](https://github.com/tu-usuario/ProyectoFinal.git)
-cd ProyectoFinal
+1.- Entrar al link de streamlink: https://proyectofinal-nxg7tt9xvftdwge2mhendp.streamlit.app/
+2.- descargar el DATASET:  BankMarketing.csv que esta en el github
+3.- Subir el archivo.csv al proyecto
+4.- Evaluar(poner 20)
